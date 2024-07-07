@@ -16,4 +16,4 @@ Rumor has it that the ultra-wealthy community consists of either investment bank
 
 In this notebook, we will explore Kernel Principal Component Analysis (Kernel PCA) - an extension of principal component analysis (PCA) - to extract key feature patterns in high-dimensional datasets. In addition to analyzing billionaires around the globe, we will also use this unsupervised learning technique to denoise images.
 
-![img](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-ML0187EN-SkillsNetwork/labs/module%203/images/RichPeople.png)
+![Rich People](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-ML0187EN-SkillsNetwork/labs/module%203/images/RichPeople.png)
